@@ -23,7 +23,6 @@ Add the following script and build a flow using the steps given to try the sampl
 ## Sample code: Insert comma-separated values into a workbook
 
 ```TypeScrip
-
 function main(workbook: ExcelScript.Workbook) {
 	// Get the active worksheet in the current workbook
 	let selectedSheet = workbook.getActiveWorksheet();
