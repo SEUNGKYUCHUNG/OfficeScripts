@@ -1,5 +1,5 @@
 # Office ![Alt Text](Images/OSLogo.jpg)
-<img src="Images/OSLogo.jpg" alt="Alt Text" width="30"/>
+<img src="Images/OSLogo.jpg" alt="Alt Text" width="25"/>
 
 
 
