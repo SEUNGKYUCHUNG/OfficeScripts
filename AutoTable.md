@@ -1,3 +1,8 @@
+
+/**
+ * Creates an AutoTable for your Excel Office Script
+ */
+
 function main(workbook: ExcelScript.Workbook) {
 	// Get the active worksheet in the current workbook
 	let selectedSheet = workbook.getActiveWorksheet();
