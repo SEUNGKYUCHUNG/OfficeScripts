@@ -1,4 +1,4 @@
-# Office <img src="Images/OSLogo.jpg" alt="Alt Text" width="20"/>
+# Office <img src="Images/OSLogo.jpg" alt="Alt Text" width="23"/>
 
 
 
