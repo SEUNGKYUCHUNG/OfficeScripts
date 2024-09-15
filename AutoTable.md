@@ -4,9 +4,9 @@ Description: Office Script that automatically creates a table
 Date: 09/15/2024
 ---
 
-# Convert CSV files to Excel workbooks
+# Why AutoTable?
 
-Many services export data as comma-separated value (CSV) files. This solution automates the process of converting those CSV files to Excel workbooks in the .xlsx file format. It uses a [Power Automate](https://make.powerautomate.com) flow to find files with the .csv extension in a OneDrive folder and an Office Script to copy the data from the .csv file into a new Excel workbook.
+
 
 ## Solution
 
