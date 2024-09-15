@@ -1,7 +1,7 @@
 ---
-title: Auto Table for Excel
-description: Learn how to use Office Scripts and Power Automate to create .xlsx files from .csv files.
-date: 09/15/2024
+Name: AutoTable
+Description: Office Script that automatically creates a table. 
+Date: 09/15/2024
 ---
 
 # Convert CSV files to Excel workbooks
