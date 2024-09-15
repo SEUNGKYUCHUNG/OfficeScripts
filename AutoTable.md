@@ -1,8 +1,6 @@
----
-title: Convert CSV files to Excel workbooks
+title: Auto Table for Excel
 description: Learn how to use Office Scripts and Power Automate to create .xlsx files from .csv files.
 date: 09/15/2024
-ms.localizationpriority: medium
 ---
 
 # Convert CSV files to Excel workbooks
