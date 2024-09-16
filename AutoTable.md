@@ -4,14 +4,7 @@
 
 
 
-
----
-Name: AutoTable
-Description: Automatically creates a table
-Date: 09/15/2024
----
-
-## Why AutoTable?<img src="Images/OSLogo.jpg" width="23"/>
+## Description
 If you are contanstly working with lenghty excel reports and need to create tables, this office script will saves you time. 
 
 
