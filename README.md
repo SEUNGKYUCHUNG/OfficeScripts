@@ -33,6 +33,7 @@ This Office Script automatically creates a table for you.
 	selectedSheet.addTable(currentRegion.getAddress(),true);
    }
    ```
+Con't should look like this.    
 <img src="/atinstruction4.png" width="270"/>
 
 5. Now click Run.
