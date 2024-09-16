@@ -1,10 +1,6 @@
 ## AutoTable<img src="Images/OSLogo.jpg" width="23"/>
 <p style="font-size:15px;">Project created on: September 15, 2024.</p>
 
-
-
-
-
 ## Description
 This Office Script automatically creates a table for you. 
 
