@@ -36,7 +36,7 @@ This Office Script automatically creates a table for you.
    }
    ```
 	Con't should look like this.    
-   	<img src="/atinstruction4.png" width="270"/>
+   	<img src="/atinstruction4.png" width="250"/>
 
 5. Now click Run.
    
