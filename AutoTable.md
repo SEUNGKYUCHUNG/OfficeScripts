@@ -1,3 +1,5 @@
+##AutoTable<img src="Images/OSLogo.jpg" width="23"/>
+
 ---
 Name: AutoTable
 Description: Office Script that automatically creates a table
