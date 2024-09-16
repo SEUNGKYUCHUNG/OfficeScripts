@@ -39,3 +39,8 @@ Con't should look like this.
 5. Now click Run.
    
    <img src="/atinstruction5.png" width="250"/>
+
+AutoTable Sample. 
+   <img src="/atinstruction6.png" width="250"/>
+
+
