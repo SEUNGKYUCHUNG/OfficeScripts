@@ -10,10 +10,10 @@ This Office Script automatically creates a table for you.
 ## Basic Instructions
 1. Open any workbook in Excel for Windows or for Mac and select the Automate tab.
 
-    <img src="/atinstruction1.jpg" width="550"/>
+	<img src="/atinstruction1.jpg" width="550"/>
 3. Click on New Script.
-   
-   <img src="/atinstruction2.jpg.png" width="200"/>
+
+   	<img src="/atinstruction2.jpg.png" width="200"/>
 5. On the left side, you will see the Code Editor pop up, click on Script 6 or whatever number populates, and rename the file and it will save.
    
    <img src="/atinstruction3.png" width="300"/>
@@ -33,8 +33,8 @@ This Office Script automatically creates a table for you.
 	selectedSheet.addTable(currentRegion.getAddress(),true);
    }
    ```
-Con't should look like this.    
-<img src="/atinstruction4.png" width="270"/>
+	Con't should look like this.    
+   <img src="/atinstruction4.png" width="270"/>
 
 5. Now click Run.
    
