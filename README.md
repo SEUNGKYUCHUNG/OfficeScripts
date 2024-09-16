@@ -16,7 +16,7 @@ This Office Script automatically creates a table for you.
    	<img src="/atinstruction2.jpg.png" width="200"/>
 5. On the left side, you will see the Code Editor pop up, click on Script 6 or whatever number populates, and rename the file and it will save.
    
-   <img src="/atinstruction3.png" width="300"/>
+  	 <img src="/atinstruction3.png" width="300"/>
 7. In the Code Editor, copy this code, paste it, and Save script.
    ```TypeScript
    function main(workbook: ExcelScript.Workbook) {
@@ -34,14 +34,14 @@ This Office Script automatically creates a table for you.
    }
    ```
 	Con't should look like this.    
-   <img src="/atinstruction4.png" width="270"/>
+   	<img src="/atinstruction4.png" width="270"/>
 
 5. Now click Run.
    
-   <img src="/atinstruction5.png" width="250"/>
+   	<img src="/atinstruction5.png" width="250"/>
 
-AutoTable Sample. 
+	AutoTable Sample. 
 
-   <img src="/atinstruction6.png" width="550"/>
+  	 <img src="/atinstruction6.png" width="550"/>
 
 
