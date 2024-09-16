@@ -41,6 +41,7 @@ Con't should look like this.
    <img src="/atinstruction5.png" width="250"/>
 
 AutoTable Sample. 
+
    <img src="/atinstruction6.png" width="550"/>
 
 
