@@ -33,4 +33,4 @@ This Office Script automatically creates a table for you.
 <img src="/atinstruction4.png" width="270"/>
 
 5. Now click Run.
-   <img src="/atinstruction5.jpg" width="550"/>
+   <img src="/atinstruction5.png" width="550"/>
