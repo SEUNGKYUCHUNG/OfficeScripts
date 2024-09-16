@@ -1,4 +1,4 @@
-## AutoTable<img src="Images/OSLogo.jpg" width="23"/><p> <strong><span style="font-size: 20px;">Project created on: <strong>September 15, 2024</strong></p>
+## AutoTable<img src="Images/OSLogo.jpg" width="23"/><p> <strong><span style="font-size: 10px;">Project created on: <strong>September 15, 2024</strong></p>
 
 
 
