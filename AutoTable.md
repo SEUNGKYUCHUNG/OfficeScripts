@@ -8,11 +8,11 @@ Date: 09/15/2024
 If you are contanstly working with lenghty excel reports and need to create tables, this office script will saves you time. 
 
 
-## Solution
+## Basic instructions
 
-1. Store the .csv files and a blank "Template" .xlsx file in a OneDrive folder.
-1. Create an Office Script to parse the CSV data into a range.
-1. Create a Power Automate flow to read the .csv files and pass their contents to the script.
+1. Open any workbook in Excel for Windows or for Mac and select the Automate tab.
+2. Click on New Script.
+3. On the left side, you will see the Code Editor pop up, click on Script 6 or whatever number populates, and rename the file.
 
 ## Sample files
 
