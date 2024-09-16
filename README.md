@@ -4,6 +4,9 @@
 
 
 
+## Description
+This Office Script automatically creates tables for you. 
+
 
 I have created an Office Script that automatically creates a table. If you are like me and have to create lengthy excel reports frequently, this may be for you. 
 
