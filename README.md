@@ -15,7 +15,7 @@ This Office Script automatically creates a table for you.
 3. Click on New Script.
 
    	<img src="/atinstruction2.jpg.png" width="200"/>
-5. On the left side, you will see the Code Editor pop up, click on Script 6 or whatever Script number populates, and rename the file and it will save.
+5. On the left side, you will see the Code Editor pop up, click on Script 6 or whatever Script number populates, and rename the file in the Script name and it will save.
    
   	 <img src="/atinstruction3.png" width="300"/>
 7. In the Code Editor, copy this code, paste it, and Save script.
