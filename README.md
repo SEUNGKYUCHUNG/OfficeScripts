@@ -29,8 +29,8 @@ This Office Script automatically creates a table for you.
 	// Convert the surrounding region into a table, using the first row as headers
 	selectedSheet.addTable(currentRegion.getAddress(),true);
 }
-   ```
-   <img src="/atinstruction4.png" width="250"/>
+```
+<img src="/atinstruction4.png" width="250"/>
 
 5. Now click Run.
    <img src="/atinstruction5.jpg" width="550"/>
