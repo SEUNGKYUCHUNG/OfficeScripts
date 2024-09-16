@@ -1,6 +1,6 @@
 ---
 Name: AutoTable
-Description: Office Script that automatically creates a table
+Description: Automatically creates a table
 Date: 09/15/2024
 ---
 
