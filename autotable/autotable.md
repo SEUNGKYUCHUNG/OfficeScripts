@@ -13,7 +13,7 @@ This Office Script automatically creates a table for you.
    	<img src="/autotable/images/atinstruction2.png" width="250"/>
 5. On the left side, you will see the Code Editor pop up, click on Script 6 or whatever Script number populates, and rename the file in the Script name and it will save.
    
-  	 <img src="/atinstruction3.png" width="250"/>
+  	 <img src="/autotable/images/atinstruction3.png" width="250"/>
    
 7. In the Code Editor, copy this code, paste it, and Save script.
    ```TypeScript
@@ -32,14 +32,14 @@ This Office Script automatically creates a table for you.
    }
    ```
 	Con't should look like this.    
-   	<img src="/atinstruction4.png" width="250"/>
+   	<img src="/autotable/images/atinstruction4.png" width="250"/>
 
 5. Now click Run.
    
-   	<img src="/atinstruction5.png" width="250"/>
+   	<img src="/autotable/images/atinstruction5.png" width="250"/>
 
 	AutoTable Sample. 
 
-  	 <img src="/atinstruction6.png" width="550"/>
+  	 <img src="/autotable/images/atinstruction6.png" width="550"/>
 
 
