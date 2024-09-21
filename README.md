@@ -7,7 +7,7 @@ If you are like me and download lenghty excel reports for weekly analysis, these
 - Allows you to automate a table
 - Saves time
 - Cloud base, easily used anywhere
-- MS 365 Windows and Mac compatible (works in all excel versions with MS 365 intergration)  
+- Microsoft 365 Windows and Mac compatible
 - Secured without risking local system stablity
 
 ## Office Scripts
