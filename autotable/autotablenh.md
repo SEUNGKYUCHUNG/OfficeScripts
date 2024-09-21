@@ -10,7 +10,7 @@ This Office Script automatically creates a table with no headers.
 	<img src="/autotable/images/atinstruction1.png" width="550"/>
 3. Click on New Script.
 
-   	<img src="/autotable/images/atinstruction7.png" width="250"/>
+   	<img src="/autotable/images/atinstruction2.png" width="250"/>
 5. On the left side, you will see the Code Editor pop up, click on Script 6 or whatever Script number populates, and rename the file in the Script name and it will save.
    
   	 <img src="/autotable/images/atinstruction3.png" width="250"/>
