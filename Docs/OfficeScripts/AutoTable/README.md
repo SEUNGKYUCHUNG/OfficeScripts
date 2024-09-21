@@ -7,7 +7,7 @@ This Office Script automatically creates a table for you.
 ## Basic Instructions
 1. Open any workbook in Excel for Windows or for Mac and select the Automate tab.
 
-	<img src="/atinstruction1.jpg" width="550"/>
+	<img src="/images/atinstruction1.png" width="550"/>
 3. Click on New Script.
 
    	<img src="/atinstruction2.jpg.png" width="250"/>
