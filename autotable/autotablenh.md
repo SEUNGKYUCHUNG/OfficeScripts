@@ -15,7 +15,7 @@ This Office Script automatically creates a table with no headers.
    
   	 <img src="/autotable/images/atinstruction7.png" width="250"/>
     
-7. In the Code Editor, copy this code, paste it, and Save script.
+7. In the Code Editor, copy this code, paste it, and click enter to save the script.
    ```TypeScript
    function main(workbook: ExcelScript.Workbook) {
 	// Get the active worksheet in the current workbook
@@ -32,12 +32,12 @@ This Office Script automatically creates a table with no headers.
    }
    ```
 	Con't should look like this.    
-   	<img src="/autotable/images/atinstruction4.png" width="250"/>
+   	<img src="/autotable/images/atinstruction8.png" width="250"/>
 
 5. Now click Run.
    
-   	<img src="/autotable/images/atinstruction5.png" width="250"/>
+   	<img src="/autotable/images/atinstruction9.png" width="250"/>
 
-	AutoTable Sample. 
+	AutoTableNH Sample.
 
-  	 <img src="/autotable/images/atinstruction6.png" width="550"/>
+  	 <img src="/autotable/images/atinstruction10.png" width="550"/>
