@@ -38,6 +38,6 @@ This Office Script automatically creates a table with no headers.
    
    	<img src="/autotable/images/atinstruction9.png" width="250"/>
 
-	AutoTableNH Sample. Ideal for downloaded excel reports with no headers. 
+	AutoTableNH Sample.
 
   	 <img src="/autotable/images/atinstruction10.png" width="550"/>
