@@ -13,6 +13,6 @@ If you are like me and download lenghty excel reports for weekly analysis, these
 ## Office Scripts
 [AutoTable](./autotable/autotable.md)<img src="/autotable/images/oslogo.jpg" width="23"/>
 
-[AutoTableNoHeader](./autotablenh/autotablenh.md)<img src="/autotable/images/oslogo.jpg" width="23"/>
+[AutoTableNoHeader](./autotable/autotablenh.md)<img src="/autotable/images/oslogo.jpg" width="23"/>
 
 
