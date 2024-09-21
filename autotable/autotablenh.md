@@ -14,7 +14,7 @@ This Office Script automatically creates a table with no headers.
 5. On the left side, you will see the Code Editor pop up, click on Script 7 or whatever Script number populates, and rename the file in the Script name and it will save.
    
   	 <img src="/autotable/images/atinstruction7.png" width="250"/>
-   
+    
 7. In the Code Editor, copy this code, paste it, and Save script.
    ```TypeScript
    function main(workbook: ExcelScript.Workbook) {
@@ -29,7 +29,7 @@ This Office Script automatically creates a table with no headers.
 
 	// Convert the surrounding region into a table, using the first row as headers
 	workbook.addTable(currentRegion.getAddress(), false);
-}
+   }
    ```
 	Con't should look like this.    
    	<img src="/autotable/images/atinstruction4.png" width="250"/>
