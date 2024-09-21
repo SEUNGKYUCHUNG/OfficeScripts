@@ -1,4 +1,4 @@
 # Hello World! 
 
 
-[autotable] (./autotable/autotable.md)
+[autotable](./autotable/autotable.md)
