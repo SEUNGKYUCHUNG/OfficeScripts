@@ -2,7 +2,7 @@
 <p style="font-size:15px;">Project created on: September 19, 2024.</p>
 
 ## Description
-This Office Script automatically creates a table with headers. 
+This Office Script automatically creates a table with no headers. 
 
 ## Basic Instructions
 1. Open any workbook in Excel for Windows or for Mac and select the Automate tab.
