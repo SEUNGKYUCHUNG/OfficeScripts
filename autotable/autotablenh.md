@@ -20,7 +20,7 @@ This Office Script automatically creates a table with headers.
    function main(workbook: ExcelScript.Workbook) {
 	// Get the active worksheet in the current workbook
 	let selectedSheet = workbook.getActiveWorksheet();
-	
+
 	// Select the specific cell B2 in the active worksheet
 	let specificCell = selectedSheet.getRange("B2");
 
@@ -28,7 +28,8 @@ This Office Script automatically creates a table with headers.
 	let currentRegion = specificCell.getSurroundingRegion();
 
 	// Convert the surrounding region into a table, using the first row as headers
-	selectedSheet.addTable(currentRegion.getAddress(),true);
+	workbook.addTable(currentRegion.getAddress(), false);
+}
    }
    ```
 	Con't should look like this.    
