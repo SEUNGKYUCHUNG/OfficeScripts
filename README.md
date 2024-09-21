@@ -15,6 +15,10 @@ If you are like me and download lenghty excel reports for weekly analysis, these
 
 [AutoTableNoHeader](./autotable/autotablenh.md)<img src="/autotable/images/oslogo.jpg" width="23"/>
 
+## Learn More
+[Microsoft Office Dev Scripts](https://learn.microsoft.com/en-us/office/dev/scripts/)
+
+
 ## Contribution
 Contributions are welcome! Please feel free to open issues or submit pull requests. Check the contributing guidelines for more details.
 
