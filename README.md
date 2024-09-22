@@ -11,9 +11,9 @@ If you frequently download lengthy Excel reports for weekly analysis, Office Scr
 - Secured without risking local system stability
 
 ## Office Scripts
-[AutoTable](./autotable/autotable.md)<img src="/autotable/images/oslogo.jpg" width="23"/>
+[AutoTable](./autotable/autotable.md)<img src="/autotable/images/oslogo.png" width="30"/>
 
-[AutoTableNoHeader](./autotable/autotablenh.md)<img src="/autotable/images/oslogo.jpg" width="23"/>
+[AutoTableNoHeader](./autotable/autotablenh.md)<img src="/autotable/images/oslogo.png" width="30"/>
 
 ## Learn More
 [Microsoft Office Dev Scripts](https://learn.microsoft.com/en-us/office/dev/scripts/)
