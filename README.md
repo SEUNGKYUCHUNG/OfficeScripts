@@ -1,7 +1,7 @@
 # Hello World! Welcome to my Office Scripts
 
 ## Description
-If you are like me and download lengthy excel reports for weekly analysis, these office scripts may be for you. These Office Scripts will automatically create a table. 
+If you frequently download lengthy Excel reports for weekly analysis, Office Scripts can be a game-changer. With Office Scripts, you can automate the creation of tables, streamlining your workflow and minimizing manual effort. It’s a simple yet powerful way to enhance productivity with minimal hassle.
 
 ## Features
 - Allows you to automate a table
