@@ -7,8 +7,8 @@ If you frequently download lengthy Excel reports for weekly analysis, Office Scr
 - Allows you to automate a table
 - Saves time
 - Cloud base, easily used anywhere
-- Microsoft 365 Windows and Mac compatible
 - Secured without risking local system stability
+- Commercial or Edu license Microsoft 365 Windows and Mac compatible
 
 ## Office Scripts
 [AutoTable](./autotable/autotable.md)<img src="/autotable/images/oslogo.png" width="30"/>
