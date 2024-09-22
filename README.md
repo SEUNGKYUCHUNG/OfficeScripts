@@ -1,7 +1,3 @@
-<head>
-<meta name="google-site-verification" content="5q2w2wrf6EKk0nBTqPjm6nnqBgRyBExdjuC-jfnLrxs" />
-</head>
-
 # Hello World! Welcome to my Office Scripts
 
 ## Description
