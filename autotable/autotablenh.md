@@ -27,7 +27,7 @@ This Office Script automatically creates a table with no headers.
 	// Get the surrouding region around the selected cell B2
 	let currentRegion = specificCell.getSurroundingRegion();
 
-	// Convert the surrounding region into a table, using the first row as headers
+	// Convert the surrounding region into a table
 	workbook.addTable(currentRegion.getAddress(), false);
    }
    ```
