@@ -19,8 +19,9 @@ If you are like me and download lenghty excel reports for weekly analysis, these
 [Microsoft Office Dev Scripts](https://learn.microsoft.com/en-us/office/dev/scripts/)
 
 
-## Contribution
-Contributions are welcome! Please feel free to open issues or submit pull requests. Check the contributing guidelines for more details.
+## Contributing
+If you encounter any issues or have suggestions, feel free to [submit an issue](../../issues).
+
 
 ## Contact
 For any questions, reach out to ghsccontact@gmail.com
