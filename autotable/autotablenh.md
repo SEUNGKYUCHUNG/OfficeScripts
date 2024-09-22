@@ -1,4 +1,4 @@
-## AutoTableNH<img src="images/oslogo.jpg" width="23"/>
+## AutoTableNH<img src="images/oslogo.png" width="30"/>
 <p style="font-size:15px;">Project created on: September 19, 2024.</p>
 
 ## Description
