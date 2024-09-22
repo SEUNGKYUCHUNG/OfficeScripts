@@ -22,11 +22,8 @@ If you are like me and download lenghty excel reports for weekly analysis, these
 ## Contribution
 Contributions are welcome! Please feel free to open issues or submit pull requests. Check the contributing guidelines for more details.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
-For any questions, reach out 
+For any questions, reach out to ghsccontact@gmail.com
 
 
 
