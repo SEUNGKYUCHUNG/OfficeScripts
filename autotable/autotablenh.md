@@ -8,14 +8,14 @@ This Office Script automatically creates a table with no headers.
 1. Open any workbook in Excel for Windows or for Mac and select the Automate tab.
 
 	<img src="/autotable/images/atinstruction1.png" width="550"/>
-3. Click on New Script.
+2. Click on New Script.
 
    	<img src="/autotable/images/atinstruction2.png" width="250"/>
-5. On the left side, you will see the Code Editor pop up, click on Script 7 or whatever Script number populates, and rename the file in the Script name and press enter to save.
+3. On the left side, you will see the Code Editor pop up, click on Script 7 or whatever Script number populates, and rename the file in the Script name and press enter to save.
    
   	 <img src="/autotable/images/atinstruction7.png" width="250"/>
     
-7. In the Code Editor, copy this code, paste it, and Save script.
+4. In the Code Editor, copy this code, paste it, and Save script.
    ```TypeScript
    function main(workbook: ExcelScript.Workbook) {
 	// Get the active worksheet in the current workbook
