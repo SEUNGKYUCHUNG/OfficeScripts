@@ -4,7 +4,7 @@
 If you frequently download lengthy Excel reports for weekly analysis, Office Scripts can be a game-changer. With Office Scripts, you can automate the creation of tables, streamlining your workflow and minimizing manual effort. It’s a simple yet powerful way to enhance productivity with minimal hassle.
 
 ## Features
-- New* Detects and removes *all* empty rows and columns, then converts the region into a proper Excel table.
+- New* Detects and removes *all* empty rows and columns, then converts the region into a proper Excel table
 - Allows you to automate a table
 - Saves time
 - Cloud base, easily used anywhere
