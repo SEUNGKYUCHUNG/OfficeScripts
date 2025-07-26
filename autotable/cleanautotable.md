@@ -1,4 +1,4 @@
-## CleanAutoTable<img src="images/oslogo.png" width="30"/>
+## CleanAutoTable<img src="images/oslogo.gif" alt="OS Logo" width="20" height="20"> 
 <p style="font-size:15px;">Project created on: May 21, 2025.</p>
 
 ## Description
