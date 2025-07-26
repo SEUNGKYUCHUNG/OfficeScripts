@@ -1,0 +1,27 @@
+Digi Scroll Emoji
+-----------------------
+
+Author: Seungkyu Chung  
+Year Created: 2025  
+File Name: oslogo.gif  
+Repository: https://github.com/SEUNGKYUCHUNG/OfficeScripts
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
+Link: https://creativecommons.org/licenses/by/4.0/
+
+You are free to:
+- Share — copy and redistribute the logo in any medium or format  
+- Adapt — remix, transform, and build upon the logo for any purpose, even commercially
+
+Under the following terms:
+- Attribution — Please give appropriate credit by mentioning the creator’s name, linking to the license, and indicating if changes were made. You may do so in any reasonable way, but not in any way that suggests I endorse you or your use.
+
+---
+
+Credit Example:  
+"This logo was created by Seungkyu Chung (2025) and is licensed under CC BY 4.0."
+
+Your support through attribution is deeply appreciated.
+
+---------------------
+© 2025 Seungkyu Chung. All rights reserved under the terms above.
