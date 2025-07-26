@@ -1,4 +1,4 @@
-## AutoTable<img src="images/oslogo.png" width="30"/>
+## AutoTable<img src="images/oslogo.gif" alt="OS Logo" width="20" height="20">
 <p style="font-size:15px;">Project created on: September 15, 2024.</p>
 
 ## Description
