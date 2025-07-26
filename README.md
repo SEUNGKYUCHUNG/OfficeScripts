@@ -13,12 +13,11 @@ If you frequently download lengthy Excel reports for weekly analysis, Office Scr
 
 ## Office Scripts
 
-[CleanAutoTable](./autotable/cleanautotable.md)<img src="/autotable/images/oslogo.png" width="30"/>   **New!**  
+[CleanAutoTable](./autotable/cleanautotable.md)<img src="./autotable/images/oslogo.gif" alt="OS Logo" width="20" height="20"> **New!**  
 
-[AutoTable](./autotable/autotable.md)<img src="/autotable/images/oslogo.png" width="30"/>
+[AutoTable](./autotable/autotable.md)<img src="./autotable/images/oslogo.gif" alt="OS Logo" width="20" height="20"> 
 
-[AutoTableNoHeader](./autotable/autotablenh.md)<img src="/autotable/images/oslogo.png" width="30"/>                                           
-
+[AutoTableNoHeader](./autotable/autotablenh.md)<img src="./autotable/images/oslogo.gif" alt="OS Logo" width="20" height="20">                                       
 ## Learn More
 [Microsoft Office Dev Scripts](https://learn.microsoft.com/en-us/office/dev/scripts/)
 
